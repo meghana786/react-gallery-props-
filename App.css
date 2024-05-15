@@ -1,0 +1,15 @@
+/* App.css */
+.App {
+    text-align: center !important;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image-container img {
+    width: 40%;
+    margin: 10px;
+}
